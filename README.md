@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-Site Link: https://product-preview-card-component-main-solution-eight.vercel.app
+Site Link: https://qr-code-component-main-kohis-solution.vercel.app
 
 ### Built with
 
